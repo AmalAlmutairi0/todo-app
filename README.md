@@ -1,4 +1,4 @@
-# 📝 Interactive To-Do List Application
+# 📝 To-Do List Application
 
 A clean, responsive, and lightweight To-Do List application built as a practical web development project to implement core DOM manipulation techniques and event handling using Vanilla JavaScript, HTML5, and CSS3.
 
